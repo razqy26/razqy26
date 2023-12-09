@@ -1,8 +1,4 @@
-## Introduction
-
-Hello everyone!
-
-I'm Teuku Razqy Sulaiman, a student at Halu Oleo University. Currently, I'm pursuing my education in the field of Informatics Engineering. I'm extremely enthusiastic about the world of technology and informatics, and I'm eager to learn and develop my skills in this domain.
+I'm an active Informatics Engineering Student at Halu Oleo University. I have a strong interest and enthusiasm in IT and technology, have a desire to develop knowledge and skills in the field of technology. I am always happy and eager to learn and develop.
 
 **Brief Information:**
 - **Name:** Teuku Razqy Sulaiman
@@ -13,7 +9,7 @@ I'm Teuku Razqy Sulaiman, a student at Halu Oleo University. Currently, I'm purs
 I have a strong interest in various aspects of the technology world, especially in the field of Programming. I enjoy tackling problems and seeking creative solutions using technological tools.
 
 <p align="left">
-<a href="https://github.com/gilangadhan">
+<a href="https://github.com/razqy26">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=razqy26&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=razqy26&layout=compact&langs_count=8&theme=algolia"/>
 </a>
