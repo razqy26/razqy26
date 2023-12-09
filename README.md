@@ -6,7 +6,7 @@ I'm an active Informatics Engineering Student at Halu Oleo University. I have a 
 - **Major:** Informatics Engineering
 
 **My Interests:**
-I have a strong interest in various aspects of the technology world, especially in the field of Programming. I enjoy tackling problems and seeking creative solutions using technological tools.
+I have a strong interest in various aspects of the technology world, especially in the field of Mobile Development. I enjoy tackling problems and seeking creative solutions using technological tools.
 
 <p align="left">
 <a href="https://github.com/razqy26">
@@ -14,11 +14,3 @@ I have a strong interest in various aspects of the technology world, especially 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=razqy26&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-**Motto:**
-"Never be content with your current abilities."
-
-Thank you for your time and attention.
-
-Best regards,
-Teuku Razqy Sulaiman
